@@ -7,7 +7,7 @@ The header will contain key elements like:
 - **Account Information**: A link or a button that prompts users to sign in or register.
 - **Cart Icon**: Display a cart icon showing the number of items in the cart. It will link to the cart page.
 
-**CSS Styling**:
+CSS Styling:
 - Use flexbox to align the items horizontally.
 - Give the header a fixed position with a shadow effect to stay on top while scrolling.
 - Style the search bar with rounded corners.
@@ -15,13 +15,12 @@ The header will contain key elements like:
 2. **Main Content Section (Product Grid)**
 This section will display the product listings in a grid layout, mimicking Amazon’s product display.
 
-- **Product Cards**: Each product will be represented in a card format that includes:
   - Product image.
   - Title/Name of the product.
   - Price and rating (star ratings or numeric ratings).
   - “Add to Cart” button for easy purchasing.
 
-**CSS Styling**:
+CSS Styling:
 - Use **CSS Grid** or **Flexbox** to arrange the product cards.
 - Add spacing between the cards and use shadows to create a card-like effect.
 - Set hover effects on the product cards, such as enlarging the product image slightly when hovering.
@@ -33,7 +32,7 @@ The footer will include additional links, similar to Amazon’s footer, with hel
 - **About Section**: Information about the website, policies, and other legal details.
 - **Social Media Icons**: Links to social media platforms.
 
-**CSS Styling**:
+ CSS Styling:
 - Use a dark background with light text to distinguish the footer from the rest of the page.
 - Align the content using grid or flexbox for a clean, organized layout.
 
