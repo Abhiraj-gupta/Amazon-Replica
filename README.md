@@ -36,9 +36,3 @@ The footer will include additional links, similar to Amazon’s footer, with hel
 - Use a dark background with light text to distinguish the footer from the rest of the page.
 - Align the content using grid or flexbox for a clean, organized layout.
 
- 4. **JavaScript Functionality**
-Enhance interactivity with JavaScript by adding functionality such as:
-
-- **Search Functionality**: Implement a basic product search feature that filters the product grid based on the user’s search input.
-- **Cart Management**: Use JavaScript to add items to the cart, dynamically updating the cart icon to show the number of items.
-- **Product Filters**: When clicking on category links, the product grid should filter products by category.
